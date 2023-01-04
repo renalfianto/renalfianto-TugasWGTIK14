@@ -1,0 +1,11 @@
+# depslib dependency file v1.0
+1672610302 source:c:\users\asus\downloads\strukdat\tp_mod15_1301213304\main.cpp
+	<iostream>
+	"Tree.h"
+
+1672610460 source:c:\users\asus\downloads\strukdat\tp_mod15_1301213304\tree.cpp
+	"Tree.h"
+
+1672609270 c:\users\asus\downloads\strukdat\tp_mod15_1301213304\tree.h
+	<iostream>
+
