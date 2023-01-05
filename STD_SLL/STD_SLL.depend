@@ -1,0 +1,11 @@
+# depslib dependency file v1.0
+1666018047 source:c:\users\asus\downloads\strukdat\std_sll\main.cpp
+	"SLL.h"
+	<iostream>
+
+1672933567 c:\users\asus\downloads\strukdat\std_sll\sll.h
+	<iostream>
+
+1672933572 source:c:\users\asus\downloads\strukdat\std_sll\sll.cpp
+	"SLL.h"
+
